@@ -139,8 +139,11 @@ Finished 2 bundles at:
 ```
 顺着目录可以找到最终打包生成的文件地址，如下：
 ![构建包地址](https://raw.githubusercontent.com/chenfengyanyu/rust-tauri-demo/master/src-tauri/img/dmginfo.png)
+
 查看 APP 文件大小：
 ![文件大小](https://raw.githubusercontent.com/chenfengyanyu/rust-tauri-demo/master/src-tauri/img/size.png)
+
 选择 rust-tauri-app_0.0.0_aarch64.dmg 并双击安装，如下：
 ![安装 APP](https://raw.githubusercontent.com/chenfengyanyu/rust-tauri-demo/master/src-tauri/img/setup.png)
+
 运行效果就不用说了，和上文效果预览一致。至此，起手项目大功告成！
